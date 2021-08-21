@@ -7,7 +7,7 @@ function preload()
 {
   //pre-load images
   pathImage=loadImage("path.png");
-  boy_run=loadAnimation("runner-1.png","runner-2.png");
+  boy_run=loadAnimation("Runner-1.png","Runner-2.png");
   energyImage=loadImage("energyDrink.png");
   bombImage=loadImage("bomb.png");
   powerImage=loadImage("power.png");
